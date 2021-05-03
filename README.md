@@ -1,2 +1,3 @@
 # imersao-dados-alura
-Imersão dados Alura, exercícios e aulas
+Explorando dados do ramo de Drug Discovery
+Pandas, Matplotlib
